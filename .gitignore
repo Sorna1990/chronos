@@ -1,0 +1,19 @@
+# Node.js and React TypeScript
+
+# Dependency directories
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.idea/
